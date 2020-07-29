@@ -6,3 +6,6 @@ When you get warned, banned, or kicked, you can appeal it at our appeal server. 
 
 ## [Appeal Server Wiki](https://github.com/reyesken/Appeal-Center/wiki/Appeal-Server-Info)
 i [About The Appeal Server](https://github.com/reyesken/Milk-N-Cookies-Appeal-Center/wiki/Appeal-Server-Info)
+
+## **Can I appeal before a week of my decline?**
+No, appealing again before a week when your appeal got decline, will get you Blacklisted for one more week.
